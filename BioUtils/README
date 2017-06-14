@@ -1,4 +1,4 @@
-Simple quick and dirty file converter for PDB/mmCIF based on BioJava.
+Simple quick and dirty file converter for PDB/mmCIF/MMTF based on BioJava.
 To run:
 java -jar BioUtils.jar $FILE $TYPE
 
