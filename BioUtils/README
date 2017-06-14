@@ -1,5 +1,5 @@
 Simple quick and dirty file converter for PDB/mmCIF based on BioJava.
 To run:
-java -jar BioUtils.jar $FILE
+java -jar BioUtils.jar $FILE $TYPE
 
-where $FILE is a PDB or mmCIF file you'd like to convert.
+where $FILE is a PDB or mmCIF file you'd like to convert and $TYPE is the format of the output file [PDB, CIF, MMTF].
